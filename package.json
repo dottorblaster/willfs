@@ -1,0 +1,25 @@
+{
+  "name": "willfs",
+  "version": "1.0.0",
+  "description": "My take on promisified fs read/write in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dottorblaster/willfs.git"
+  },
+  "keywords": [
+    "promise",
+    "fs",
+    "read",
+    "write"
+  ],
+  "author": "Alessio Biancalana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dottorblaster/willfs/issues"
+  },
+  "homepage": "https://github.com/dottorblaster/willfs#readme"
+}
