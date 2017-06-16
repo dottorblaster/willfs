@@ -1,6 +1,6 @@
 {
   "name": "willfs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My take on promisified fs read/write in NodeJS",
   "main": "index.js",
   "scripts": {
